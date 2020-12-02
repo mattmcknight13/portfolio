@@ -10,3 +10,8 @@ a.resume-btn {
     background-color: white;
     padding: 20px;
 }
+
+a {
+  text-decoration: underline;
+  color: blue;
+}
