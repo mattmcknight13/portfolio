@@ -12,6 +12,7 @@ a.resume-btn {
 }
 
 a {
-  text-decoration: underline;
-  color: blue;
+  text-decoration: none;
+  color: #777;
+  font-weight: 700;
 }
